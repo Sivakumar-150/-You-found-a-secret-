@@ -9,8 +9,6 @@
 </div>
 <br>
 
-**Environmental Engineer | Research Analyst | Sustainability Data Specialist**  
-Turning environmental data into actionable insights for **net-zero**, **circular economy**, and **ESG excellence**.
 
 I bridge environmental engineering, data analytics, and business strategy to help organizations measure, monitor, optimize, and report their sustainability performance with transparency and real impact.
 
