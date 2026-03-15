@@ -1,10 +1,12 @@
-# -You-found-a-secret-about-me
+# -README-#
 "My GitHub profile README – Sustainability &amp; Environmental Data Analytics".
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=Hi+there!+👋+I'm+Siva;Environmental+Engineer+%26+Sustainability+Data+Specialist;Turning+data+into+insights+for+net-zero+&+circular+economy;🌍+Building+a+low-carbon+future" alt="Typing Animation" />
+  <h1>Hi there! 👋 I'm Sivakumar Srinivasan</h1>
+  <h3>Environmental Engineer & Sustainability Data Specialist</h3>
+  <p>Turning data into actionable insights for <strong>net-zero transitions</strong> and <strong>circular economy</strong> success 🌍</p>
+  <p>Building a low-carbon, resource-efficient future 💡</p>
 </div>
-
 <br>
 
 **Environmental Engineer | Research Analyst | Sustainability Data Specialist**  
