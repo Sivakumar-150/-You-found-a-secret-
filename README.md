@@ -23,7 +23,7 @@ I thrive at the intersection of **environmental science**, **data analytics**, a
 
 ### 🛠️ Skills & Tools
 - **Environmental Standards & Frameworks** — GHG Protocol, ISO 14064, SBTi, TCFD, GRI, BRSR, CDP
-- **Data & Analytics** — Python (pandas, numpy, matplotlib, seaborn), R, SQL, Power BI / Tableau, Excel advanced modeling
+- **Data & Analytics** — Python (pandas, numpy, matplotlib, seaborn), SQL, Power BI, Excel, Machine Learning
 - **Sustainability Domains** — Renewables, Water management, Waste reduction, Emissions control, Carbon accounting, Lifecycle Assessment (LCA)
 - **Other** — Git, Jupyter, Google Earth Engine (geospatial), ESG reporting platforms
 
